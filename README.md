@@ -11,9 +11,6 @@ A machine learning project to predict sepsis in patients using vital signs and l
 - [Features](#features)
 - [Model Evaluation](#model-evaluation)
 - [Feature Importance](#feature-importance)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## 🌟 Project Overview
 Sepsis is a life-threatening condition caused by the body's response to infection. Early detection can save lives. This project uses a Random Forest model to predict sepsis by analyzing clinical features such as FiO2, PaCO2, Bilirubin, and Lactate. The model achieves a mean ROC-AUC of 0.8577 and accuracy of 0.8046, outperforming existing benchmarks.
