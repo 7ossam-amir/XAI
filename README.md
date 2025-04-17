@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/your-username/sepsis-prediction?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/your-username/sepsis-prediction?style=social)
 
-A machine learning project to predict sepsis in patients using vital signs and lab results. This repository implements a Random Forest model to identify septic cases with high accuracy, leveraging features like FiO2, PaCO2, Bilirubin, and Lactate.
+A machine learning project to predict critical health conditions in patients using vital signs and lab results. This repository implements diffrent ML models to identify severe cases with high accuracy, leveraging key clinical features with comparsion and explainaplty for the models.
 
 ## 📋 Table of Contents
 - [Project Overview](#project-overview)
